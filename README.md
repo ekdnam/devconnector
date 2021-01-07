@@ -6,7 +6,7 @@ A responsive, mobile-friendly forum for developers to connect, built with HTML a
 
 You can view the hosted site at [devconnector-scss.netlify.app](https://devconnector-scss.netlify.app)
 
-## Concepts learned
+## Concepts learnt
 
 - Basics of SCSS
 - Adding mobile-friendly and responsive features
