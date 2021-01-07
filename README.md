@@ -1,5 +1,7 @@
 # devconnector
 
+![index](ss/index.jpg)
+
 A responsive, mobile-friendly forum for developers to connect built with HTML and SCSS. 
 
 You can view the hosted site at [devconnector-scss.netlify.app](https://devconnector-scss.netlify.app)
